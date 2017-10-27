@@ -6,4 +6,4 @@ Here is a schedule for Fall 2017.
 
 # Meeting Notes
 
-We have some notes for each meeting. Please go to [here](./meet_ups/readme.me) to take a look.
+We have some notes for each meeting. Please go to [here](./meet_ups/readme.md) to take a look.
